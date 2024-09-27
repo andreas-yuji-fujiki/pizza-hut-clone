@@ -1,0 +1,244 @@
+/* Buttons
+*/
+button{
+    border-radius: 35px;
+    padding: 12px 19px;
+    border: none;
+    background-color: transparent;
+    font-weight: bold;
+}
+button a{
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #00000021;
+}
+button.black-bg-btn{
+    color: #fff;
+    background-color: #000;
+}
+button.black-bg-btn:hover{
+    opacity: 0.8;
+}
+button.black-bg-btn a{
+    color: #fff;
+}
+
+/* Main Header
+*/
+.main-header{
+    position: sticky;
+    top: 0;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fff;
+
+    height: 80px;
+    padding: 0 70px;
+    font-size: 20px;
+
+    border-bottom: 1px solid #acacac;
+}
+.main-header a{
+    font-size: 15px;
+}
+
+/* Order Section
+*/
+.order-section{
+    margin-bottom: 220px;
+}
+.order-section .banner-container{
+    height: 265px;
+    background-image: url('../images/landing-background.svg');
+    background-position: center;
+    background-size: cover;
+}
+.order-section .address-card{
+    width: 880px;
+    height: 350px;
+    padding: 65px 75px 55px 75px;
+    margin: -210px auto;
+    background-color: #fff;
+    box-shadow: rgba(35, 31, 32, 0.12) 0px 4px 12px;
+    border-radius: 20px;
+
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-image: url('../images/address-card-bg.png');
+
+    display: flex;
+    flex-direction: column;
+}
+    /* Order Instructions */
+.order-instructions{
+    font-weight: bolder;
+    width: 50%;
+}
+.order-instructions h1{
+    color: #272425;
+    font-size: 24px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    font-weight: 600;
+
+    margin-bottom: 25px;
+}
+.order-instructions h2{
+    font-size: 14px;
+    font-weight: 900;
+    line-height: 22px;
+    color: #4f4a4b;
+
+    margin-bottom: 45px;
+}
+    /* Adress Input */
+.address-input-container{
+    display: flex;
+    align-items: center;
+    outline: 1px solid #929292;
+    border-radius: 30px;
+    padding: 15px 30px;
+}
+.address-input-container:hover{
+    transition: 0.4s;
+    cursor: pointer;
+    outline: 1.7px solid #ff0000;
+    box-shadow: rgba(35, 31, 32, 0.12) 0px 4px 12px;
+}
+.address-input-container i{
+    margin-right: 25px;
+}
+#address-input{
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* News Section
+*/
+.news-section{
+    text-align: center;
+}
+.news-section img{
+    border-radius: 15px;
+    margin: 25px 0 25px 0;
+}
+.news-section h2{
+    color: #272425;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.news-section p{
+    color: #4f4a4b;
+}
+
+/* App Download Section
+*/
+.app-download-section{
+    background-color: #fff;
+}
+.app-download-section .container{
+    width: 950px;
+    margin: 0 auto;
+    padding: 20px 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.app-download-section .text{
+    max-width: 400px;
+    margin-right: 15px;
+}
+.app-download-section .text h3{
+    color: #c8102e;
+    margin-bottom: 10px;
+}
+.app-download-section .text p{
+    font-size: 14px;
+    color: #272425;
+    font-weight: 900;
+}
+.app-download-section .qrcode img{
+    width: 140px;
+    padding: 15px;
+}
+.app-download-section .mobile-download-btns{
+    display: flex;
+    gap: 40px;
+}
+.app-download-section .mobile-download-btns{
+    margin-left: 20px;
+}
+.app-download-section .mobile-download-btns img{
+    width: 150px;
+}
+
+/* Footer
+*/
+footer{
+    background-color: #231f20;
+    color: #fff;
+}
+footer a, li{
+    color: #fff;
+}
+
+footer .container{
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+footer .about-contact{
+    display: flex;
+    justify-content: space-between;
+}
+.list-title{
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.horizontal-list{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    gap: 15px;
+}
+footer li:not(:last-child){
+    margin-bottom: 15px;
+}
+footer a{
+    font-weight: 900;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+footer .copyright{
+    display: flex;
+    align-items: center;
+
+    margin: 50px 0;
+    padding: 35px 0;
+
+    border-top: 1px solid #535353;
+    border-bottom: 1px solid #535353;
+}
+footer .copyright p{
+    flex: 1;
+    padding-left: 20px;
+    
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+
+    opacity: 0.8;
+}
+footer .price-warning{
+    font-size: 14px;
+    opacity: 0.8;
+}

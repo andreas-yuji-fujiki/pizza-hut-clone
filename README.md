@@ -15,7 +15,7 @@ Animações e efeitos visuais semelhantes ao site original.
 Você pode visualizar o código do projeto neste repositório.
 Ou ver o deploy aqui: 
 
-Licença
+## Licença
 Este projeto é licenciado sob a MIT License.
 
 ### By: Andreas Pinheiro!

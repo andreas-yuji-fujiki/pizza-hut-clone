@@ -15,4 +15,4 @@
 - Você pode visualizar o código do projeto neste repositório.
 - Ou ver o deploy aqui: 
 
-### By: Andreas Pinheiro!
+By: [ Andreas Yuji ](https://andreas-yuji-fujiki.github.io/portfolio)

@@ -13,6 +13,6 @@
 
 ## Como Executar o Projeto
 - Você pode visualizar o código do projeto neste repositório.
-- Ou ver o deploy aqui: 
+- [Ou ver o deploy aqui](https://andreas-yuji-fujiki.github.io/pizza-hut-clone/)
 
 By: [ Andreas Yuji ](https://andreas-yuji-fujiki.github.io/portfolio)

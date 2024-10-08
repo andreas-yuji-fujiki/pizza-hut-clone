@@ -15,4 +15,7 @@
 - Você pode visualizar o código do projeto neste repositório.
 - [Ou ver o deploy aqui](https://andreas-yuji-fujiki.github.io/pizza-hut-clone/)
 
-By: [ Andreas Yuji ](https://andreas-yuji-fujiki.github.io/portfolio)
+### By: Andreas Yuji
+- [ Portfolio! ](https://andreas-yuji-fujiki.github.io/portfolio)
+- [GITHUB](https://github.com/andreas-yuji-fujiki)
+- [LINKEDIN](www.linkedin.com/in/andreas-yuji-fujiki-a08633321)

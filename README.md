@@ -1,4 +1,7 @@
 # Pizza Hut Clone
+
+## [> deploy link](https://andreas-yuji-fujiki.github.io/pizza-hut-clone/)
+
 - PIZZA HUT CLONE é um projeto de frontend que replica a interface do site da Pizza Hut. O objetivo deste projeto é recriar o layout, o design responsivo e a navegação, proporcionando uma experiência visual semelhante à do site oficial. Este projeto foi desenvolvido com HTML, CSS e JavaScript, sem incluir funcionalidades de backend ou sistemas de pedidos.
 
 ## Tecnologias Utilizadas
